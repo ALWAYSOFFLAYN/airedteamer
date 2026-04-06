@@ -8,7 +8,11 @@
 *model behaviors, develop AI-specific red teaming strategies, and perform*
 *offensive security testing against AI-driven applications.*
 
-<p style="text-align: center;">12 modules : </p>
 
-[## Fundamentals of AI](./Fundamentals of AI/readme.md)
-[## Applications of AI in InfoSec](./Applications of AI in InfoSec/readme.md)
+
+
+
+        | 12 modules |
+
+## [ Fundamentals of AI](../Fundamentals of AI/readme.md)
+## [Applications of AI in InfoSec](../Applications of AI in InfoSec/readme.md)
