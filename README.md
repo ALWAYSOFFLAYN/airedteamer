@@ -1,0 +1,9 @@
+ ## **Path Description**
+*The AI Red Teamer Job Role Path, in collaboration with Google, trains
+cybersecurity professionals to assess, exploit, and secure AI systems.
+Covering prompt injection, model privacy attacks, adversarial AI, supply chain
+risks, and deployment threats, it combines theory with hands-on exercises.
+Aligned with Google’s Secure AI Framework (SAIF), it ensures relevance to
+real-world AI security challenges. Learners will gain skills to manipulate
+model behaviors, develop AI-specific red teaming strategies, and perform
+offensive security testing against AI-driven applications.*
